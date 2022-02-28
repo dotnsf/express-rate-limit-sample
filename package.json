@@ -1,0 +1,15 @@
+{
+    "name": "express-rate-limit-sample",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app_new.js"
+    },
+    "dependencies": {
+        "express": "^4.17.3",
+        "express-rate-limit": "^6.3.0"
+    },
+    "repository": {},
+    "engines": {
+        "node": "14.x"
+    }
+}
